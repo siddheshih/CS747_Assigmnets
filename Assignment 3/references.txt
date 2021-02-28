@@ -1,0 +1,7 @@
+Reinforcement Learning: An Introduction, Sutton/Barto
+
+https://www.geeksforgeeks.org/numpy-cumsum-in-python/
+
+https://docs.scipy.org/doc//numpy-1.10.4/reference/generated/numpy.random.choice.html
+
+https://stackoverflow.com/questions/6848828/what-is-the-difference-between-q-learning-and-sarsa#:~:text=The%20most%20important%20difference%20between,actions%20for%20the%20next%20step.
