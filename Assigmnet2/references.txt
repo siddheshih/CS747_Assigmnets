@@ -1,0 +1,10 @@
+Python References:
+https://docs.python.org/3/library/stdtypes.html#str.split
+https://docs.python.org/3.5/library/functions.html#print
+http://cs231n.github.io/python-numpy-tutorial/
+PulP- https://pythonhosted.org/PuLP/CaseStudies/a_blending_problem.html
+https://scaron.info/blog/linear-programming-in-python-with-pulp.html
+
+RL Ref:
+Reinforcement Learning: An Introduction, Richard S. Sutton and Andrew G. Barto, 2nd edition 2018
+https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2020/index.html
