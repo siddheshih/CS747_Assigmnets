@@ -1,0 +1,84 @@
+epsilon = 0.0002
+instance instances/i-1.txt
+39.25286289947613
+instance instances/i-2.txt
+50.250159588591806
+instance instances/i-3.txt
+503.4076287482666
+epsilon = 0.002
+instance instances/i-1.txt
+7.355558364779382
+instance instances/i-2.txt
+5.953934562358651
+instance instances/i-3.txt
+21.51489525753359
+epsilon = 0.02
+instance instances/i-1.txt
+10.409372419741258
+instance instances/i-2.txt
+10.09415269945612
+instance instances/i-3.txt
+18.1310233162468
+epsilon = 0.1
+instance instances/i-1.txt
+44.814198409502175
+instance instances/i-2.txt
+38.89218517634446
+instance instances/i-3.txt
+87.17685157249927
+epsilon = 0.2
+instance instances/i-1.txt
+82.21376079884945
+instance instances/i-2.txt
+79.74062678664671
+instance instances/i-3.txt
+175.90499082597478
+epsilon = 0.3
+instance instances/i-1.txt
+127.01413503238577
+instance instances/i-2.txt
+123.5071974860848
+instance instances/i-3.txt
+265.59132280901713
+epsilon = 0.4
+instance instances/i-1.txt
+167.8844913317462
+instance instances/i-2.txt
+169.2012825414036
+instance instances/i-3.txt
+348.51929898035337
+epsilon = 0.5
+instance instances/i-1.txt
+204.08263535781796
+instance instances/i-2.txt
+214.31204998591315
+instance instances/i-3.txt
+435.94795967139356
+epsilon = 0.6
+instance instances/i-1.txt
+252.1799228118694
+instance instances/i-2.txt
+251.3355500138986
+instance instances/i-3.txt
+521.2523362729703
+epsilon = 0.7
+instance instances/i-1.txt
+294.99087735542383
+instance instances/i-2.txt
+294.8641236017199
+instance instances/i-3.txt
+608.2220234135982
+epsilon = 0.8
+instance instances/i-1.txt
+333.30372770308975
+instance instances/i-2.txt
+331.7733946864521
+instance instances/i-3.txt
+694.2002316543986
+epsilon = 0.9
+instance instances/i-1.txt
+372.5767151465017
+instance instances/i-2.txt
+373.40356318383436
+instance instances/i-3.txt
+779.5228497869499

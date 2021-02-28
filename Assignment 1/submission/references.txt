@@ -1,0 +1,12 @@
+Thompson sampling with hint ideas:
+https://papers.nips.cc/paper/5108-prior-free-and-prior-dependent-regret-bounds-for-thompson-sampling.pdf
+
+Command line args:
+https://anenadic.github.io/2014-11-10-manchester/novice/python/06-cmdline-non-interactive.html
+
+Ideas about the code:
+https://medium.com/datadriveninvestor/bandit-algorithm-implemented-from-scratch-38542cedafb3
+https://medium.com/datadriveninvestor/multi-armed-bandit-algorithms-ae174ecdee25
+
+Thompson sampling:
+https://medium.com/analytics-vidhya/multi-armed-bandit-analysis-of-thompson-sampling-algorithm-6375271f40d1
